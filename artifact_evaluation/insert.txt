@@ -1,0 +1,11 @@
+22-10-17-20:09
+a_zipf_1_0.5_1_YCSB_INSERT throughput 166335.596150
+b_zipf_1_0.5_1_YCSB_INSERT throughput 165062.084380
+c_zipf_1_0.5_1_YCSB_INSERT throughput 167718.080150
+d_zipf_1_0.5_1_YCSB_INSERT throughput 162331.275716
+e_zipf_1_0.5_1_YCSB_INSERT throughput 159448.764145
+a_zipf_1_0.5_0_YCSB_INSERT throughput 158689.829618
+b_zipf_1_0.5_0_YCSB_INSERT throughput 156422.830234
+c_zipf_1_0.5_0_YCSB_INSERT throughput 160138.187018
+d_zipf_1_0.5_0_YCSB_INSERT throughput 162642.134949
+e_zipf_1_0.5_0_YCSB_INSERT throughput 157936.332605

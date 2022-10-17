@@ -1,0 +1,11 @@
+22-10-17-20:09
+a_zipf_1_0.5_1_YCSB_A throughput 95099.972097
+b_zipf_1_0.5_1_YCSB_B throughput 56169.498942
+c_zipf_1_0.5_1_YCSB_C throughput 53646.047659
+d_zipf_1_0.5_1_YCSB_D throughput 56032.430085
+e_zipf_1_0.5_1_YCSB_E throughput 3335.391485
+a_zipf_1_0.5_0_YCSB_A throughput 92795.836208
+b_zipf_1_0.5_0_YCSB_B throughput 55686.641623
+c_zipf_1_0.5_0_YCSB_C throughput 53673.704255
+d_zipf_1_0.5_0_YCSB_D throughput 55851.925820
+e_zipf_1_0.5_0_YCSB_E throughput 3360.298878

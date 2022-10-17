@@ -1,0 +1,13 @@
+Workloads Latency PRISM SLM-DB
+YCSB-A
+Average 30 122
+Median 2 18
+99% 90 1363
+YCSB-C
+Average 25 10
+Median 1 4
+99% 96 42
+YCSB-E
+Average 231 233
+Median 229 89
+99% 796 1394
