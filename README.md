@@ -126,7 +126,7 @@ To learn more about *Prism* configuration, please refer to *PRISM/include/mts-co
 the experimental results may also be different.
 - The detailed source code of the *Prism* components is in directory *PRISM/src/*.
     - `MTS.cpp`: *Prism*'s operations
-    - `KeyIndex.h`: Persistent Key Index (PKI) on NVM
+    - `KeyIndex.h`: Persistent Key Index on NVM
     - `AddressTable.*` : Heterogeneous Storage Indirection Table (HSIT) on NVM
     - `OpLog.*`: Persistent Write Buffer (PWB) on NVM
     - `ValueStorage.*`: Value Storage on Flash SSD
