@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7215748.svg)](https://doi.org/10.5281/zenodo.7215748)
-
 # Prism: Optimizing Key-Value Store for Modern Heterogeneous Storage Devices
 This repository contains the source code for ACM ASPLOS 2023.
 
