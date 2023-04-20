@@ -71,7 +71,7 @@ For details, see [Intel Optane DC Persistent Memory Quick Start Guide](https://w
 
 ### Preparing 12 NVMs and 8 SSDs
 If your hardware device environment is different from the above environment,  
-you need to modify the file *devices_mount.sh*.
+you need to modify the file *prepare_devices.sh*.
 ```sh
 $bash prepare_devices.sh
 $df -Th
