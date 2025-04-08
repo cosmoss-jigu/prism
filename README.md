@@ -136,7 +136,7 @@ the experimental results may also be different.
 
 
 ## Authors
-- Yongju Song (Sungkyunkwan University) <yongju@skku.edu>
+- Yongju Song (Sungkyunkwan University) <yongju@skku.edu> <yongjusyj@gmail.com>
 - Wook-Hee Kim (Konkuk University) <wookhee@konkuk.ac.kr>
 - Sumit Kumar Monga (Virginia Tech) <sumitkm@vt.edu>
 - Changwoo Min (Virginia Tech) <changwoo@vt.edu>
